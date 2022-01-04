@@ -1,3 +1,5 @@
+# install pygame first to run this
+#command -- pip install pygame
 from pygame import mixer as song
 from datetime import datetime 
 now = datetime.now()
